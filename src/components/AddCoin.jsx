@@ -34,6 +34,7 @@ const AddCoin = () => {
       <div className={isActive ? "dropdown-menu show" : "dropdown-menu"}>
         {availableCoins.map((el) => {
           return (
+            // eslint-disable-next-line jsx-a11y/anchor-is-valid
             <a
               onClick={() => handleClick(el)}
               href="#"
