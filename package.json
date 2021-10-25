@@ -1,6 +1,6 @@
 {
   "homepage":"https://tamirs2702.github.io/cryptocurrency-tracker",
-  "name": "cryptocurrency-tracker",
+  "name": "coinstar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
